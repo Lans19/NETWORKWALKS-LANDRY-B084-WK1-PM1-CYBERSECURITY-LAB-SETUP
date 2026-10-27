@@ -277,7 +277,8 @@ Junior Cybersecurity Engineer — Internship - Batch B084 NetworkWalks
 | Field | Details |
 |---|---|
 | Project title | Cybersecurity Lab Environment Setup |
-| Focus area | Virtualisation, networking, Linux, and ethical hacking practice |
-| Tools used | VirtualBox, Kali Linux, 7-Zip|
+| Program Name | Cybersecurity at Networkwalks |
+| Week | 01 |
 | Status | Completed |
+| Repository | GitHub |
 | Date | 27 October 2026 |
