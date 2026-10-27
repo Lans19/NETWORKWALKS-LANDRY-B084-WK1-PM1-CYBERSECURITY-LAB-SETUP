@@ -3,7 +3,7 @@
 
 An isolated virtual cybersecurity laboratory built with **Oracle VirtualBox** and **Kali Linux** for safe, authorised penetration-testing and ethical-hacking practice.
 
-> **Ethical use notice:** This lab is for education and authorized testing only. Do not scan, attack, or test systems you do not own or do not have explicit permission to test.
+> **⚠️ Ethical use notice:** This lab is for education and authorized testing only. Do not scan, attack, or test systems you do not own or do not have explicit permission to test.
 
 ## 📌 Project Overview
 
