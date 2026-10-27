@@ -74,13 +74,13 @@ transfer.
 <img width="1917" height="1078" alt="Download and Install 7-Zip" src="https://github.com/user-attachments/assets/04053bcb-43d5-4d62-a72b-95cce76670c0" />
 
 
-### 1. Install VirtualBox
+### 2. Install VirtualBox
 
 Install Oracle VirtualBox on the host computer. VirtualBox is used to create and manage the virtual machines in the lab. VirtualBox can be downloaded from the official website.
 
 <img width="1913" height="1078" alt="Download and Install VirtualBox" src="https://github.com/user-attachments/assets/cf25b79b-0c39-4913-9012-088b92b592d1" />
 
-### 2. Download and Import Kali Linux
+### 3. Download and Import Kali Linux
 
 Download Kali Linux from the official website and import it into VirtualBox.
 
@@ -97,7 +97,7 @@ Recommended VM settings:
 <img width="1917" height="1078" alt="Download and Import Kali Linux" src="https://github.com/user-attachments/assets/1e4873db-168d-4fed-b9c1-a534a0e85c6b" />
 
 
-### 3. Create the NAT Network
+### 4. Create the NAT Network
 
 In VirtualBox, create a dedicated NAT Network.
 
@@ -114,7 +114,7 @@ A NAT Network is used instead of a standard NAT adapter because it allows multip
 
 <img width="1917" height="1078" alt="Selecting NAT Network " src="https://github.com/user-attachments/assets/99bf5b75-e9e9-4f7a-97b3-717464f7c3f9" />
 
-### 4. Enable Shared Clipboard and Drag & Drop
+### 5. Enable Shared Clipboard and Drag & Drop
 
 Shared Clipboard and Drag & Drop were enabled in VirtualBox to make it easier to transfer text and files between the Windows host computer and the Kali Linux virtual machine.
 
@@ -122,7 +122,7 @@ With these settings enabled, text copied on the host can be pasted into Kali Lin
 
 <img width="1917" height="1078" alt="Enabling Shared Clipboard and Drag   Drop" src="https://github.com/user-attachments/assets/2f04aecf-1885-4a73-9462-efd84e83bd80" />
 
-### 5. Add and Enable a Shared Folder
+### 6. Add and Enable a Shared Folder
 
 A shared folder named `Kali-VBOX-NW` in the host's downloads folder was created in order to transfer files between the Windows host computer and the Kali Linux virtual machine.
 
@@ -131,7 +131,7 @@ After the VM starts, the shared folder can be accessed from the Kali Linux file 
 <img width="1917" height="1078" alt="Adding and Enabling Shared Folders" src="https://github.com/user-attachments/assets/83c92aeb-5ff2-4441-a7c5-0540c6f6a1ab" />
 
 
-### 6. Configure Kali Linux Networking
+### 7. Configure Kali Linux Networking
 
 The Kali Linux network settings were configured through the Kali Linux graphical network settings rather than using terminal commands.
 
@@ -157,7 +157,7 @@ The Kali Linux network settings were configured through the Kali Linux graphical
 <img width="1920" height="923" alt="Tested network and internet is working" src="https://github.com/user-attachments/assets/ee3184ad-d6cb-4006-8da1-1437875ac955" />
 
 
-### 7. Create a Clean Snapshot
+### 8. Create a Clean Snapshot
 
 After completing the initial setup, create a VirtualBox snapshot.
 
