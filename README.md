@@ -1,6 +1,13 @@
 # NETWORKWALKS-LANDRY-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 ## NetworkWalks | Batch B084 | Week 1| Project1 (WK1-PM1)
 
+## 🗂️ Week 1 Project Navigation
+
+| Document | Description |
+|---|---|
+| [Main Week 1 Project](./README.md) | Kali Linux, VirtualBox, NAT Network, and cybersecurity lab setup |
+| [Week 1 Extra Projects](./WEEK1-EXTRA-PROJECTS-LANDRY-B084.md) | Android-x86, Windows 10, troubleshooting, and extra SOC Wireshark labs |
+
 An isolated virtual cybersecurity laboratory built with **Oracle VirtualBox** and **Kali Linux** for safe, authorised penetration-testing and ethical-hacking practice.
 
 > **⚠️ Ethical use notice:** This lab is for education and authorized testing only. Do not scan, attack, or test systems you do not own or do not have explicit permission to test.
