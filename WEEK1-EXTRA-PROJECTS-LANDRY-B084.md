@@ -1,5 +1,8 @@
 # 🚀 Extra Projects for Week 1
 
+⬅️ **Back to the main Week 1 project:**  
+[README.md](./README.md)
+
 **👤 Author:** Landry Kasapato Semilwo (Junior Cybersecurity Engineer)    
 **🎓 Program:** Cybersecurity at NetworkWalks   
 **🏷️ Batch:** B084   
