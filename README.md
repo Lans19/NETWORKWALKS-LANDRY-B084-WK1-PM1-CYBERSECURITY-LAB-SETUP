@@ -5,6 +5,11 @@ An isolated virtual cybersecurity laboratory built with **Oracle VirtualBox** an
 
 > **⚠️ Ethical use notice:** This lab is for education and authorized testing only. Do not scan, attack, or test systems you do not own or do not have explicit permission to test.
 
+In addition to the main Week 1 cybersecurity lab setup, I completed extra projects covering Android-x86 and Windows 10 virtual machines, NAT Network configuration, troubleshooting, and six additional SOC Wireshark labs.
+
+➡️ **View the full Week 1 Extra Projects report:**  
+[WEEK1-EXTRA-PROJECTS-LANDRY-B084.md](./WEEK1-EXTRA-PROJECTS-LANDRY-B084.md)
+
 ## 📌 Project Overview
 
 This project sets up a controlled virtual environment for practising cybersecurity skills such as:
