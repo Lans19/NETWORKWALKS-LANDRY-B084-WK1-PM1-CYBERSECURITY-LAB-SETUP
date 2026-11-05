@@ -124,14 +124,11 @@ ping 10.0.0.9
 
 This confirmed that Kali Linux could reach the Android VM.
 
-#### Step 7: Submit Evidence
+<img width="959" height="539" alt="Android 9 Connectivity" src="https://github.com/user-attachments/assets/897c122c-8a09-4f0a-9025-aaf2cd068300" />
 
-I took a screenshot showing successful pings in both directions:
+<img width="959" height="539" alt="android9-pinging-kali-and-windows10" src="https://github.com/user-attachments/assets/c503ee1a-6fae-4abe-ac1a-de8d25d17e65" />
 
-- Android to Kali: `ping 10.0.0.2`
-- Kali to Android: `ping 10.0.0.9`
-
-The screenshot was submitted through the Week 1 submission page.
+<img width="959" height="539" alt="kali-pinging-windows10-and-android9" src="https://github.com/user-attachments/assets/1cbe3972-7da3-4f99-896e-e5a6d0b62ef9" />
 
 ---
 
@@ -322,6 +319,12 @@ This confirmed that Kali Linux could reach the Windows 10 VM.
 
 ---
 
+<img width="959" height="539" alt="Windows 10 Connectivity" src="https://github.com/user-attachments/assets/87b9ea0a-ee9d-4c21-b3e4-5cafa35a394f" />
+
+<img width="959" height="539" alt="windows10-pinging-kali-and-android9" src="https://github.com/user-attachments/assets/3d14a09e-9afd-4c19-a1b3-eb81a51c5cc6" />
+
+<img width="959" height="539" alt="kali-pinging-windows10-and-android9" src="https://github.com/user-attachments/assets/cebbac20-5eea-42c3-9ce1-32b8f32b14dc" />
+
 ## 3. 🕵️ SOC Project Module — Wireshark (Extra)
 
 ### 🎯 Mission
@@ -348,16 +351,20 @@ I acted as a SOC analyst and investigated six live Wireshark labs in the browser
 
 | SOC Lab | Focus | Link | Status |
 |---|---|---|---|
-| Identify the Attacker’s IP | Find the attacker’s IP address in the traffic. | `networkwalks.com/wireshark-lab3/` | Completed — all 10 tasks |
+| Identify the Attacker’s IP | Find the attacker’s IP address in the traffic. | `networkwalks.com/wireshark-lab3/` | Completed — all 10 tasks |  
 | Follow TCP Stream 1 | Rebuild a conversation and read what was sent. | `networkwalks.com/wireshark-lab4/` | Completed — all 10 tasks |
 | Follow TCP Stream, Part 2 | Practise Follow TCP Stream on a new capture and find hidden data. | `networkwalks.com/wireshark-lab5/` | Completed — all 10 tasks |
 | HTTP Plain Text Credentials | Find usernames and passwords sent in clear text over HTTP. | `networkwalks.com/wireshark-lab6/` | Completed — all 10 tasks |
 | Catch the Brute Force Attacker | Spot repeated login attempts and identify who is guessing passwords. | `networkwalks.com/wireshark-lab7/` | Completed — all 10 tasks |
 | Catch the Call Scammer | Investigate the capture, play the call, and identify the scammer. | `networkwalks.com/wireshark-lab8/` | Completed — all 10 tasks |
 
+---
+<img width="270" height="425" alt="Lab 3 Result - Landry Kasapato Semilwo" src="https://github.com/user-attachments/assets/9e4c5ce8-f6c8-492f-b15d-6101d2c23438" /> <img width="270" height="425" alt="Lab 4 Result - Landry Kasapato Semilwo" src="https://github.com/user-attachments/assets/9cd78282-e2db-408e-9206-05aa343a74d8" /> <img width="270" height="425" alt="Lab 5 Result - Landry Kasapato Semilwo" src="https://github.com/user-attachments/assets/bb4e1801-22f2-4d5f-a291-017521fc591c" /> <img width="270" height="425" alt="Lab 6 Result - Landry Kasapato Semilwo (1)" src="https://github.com/user-attachments/assets/21ff6718-6ba1-407b-9e30-93e19454db2f" /> <img width="270" height="425" alt="Lab 7 Result - Landry Kasapato Semilwo" src="https://github.com/user-attachments/assets/0dee1673-690c-4c55-90e7-3695c236547b" /> <img width="270" height="425" alt="Lab 8 Result - Landry Kasapato Semilwo" src="https://github.com/user-attachments/assets/a500569b-d94b-49dc-954b-60791bd09e76" />
 
 
+<img width="958.5" height="539" alt="Wireshark Quiz" src="https://github.com/user-attachments/assets/8cc466e0-d3dd-4585-9cbf-569953ca86e6" /> <img width="958.5" height="539" alt="Wireshark Advanced Quiz" src="https://github.com/user-attachments/assets/418cc330-a557-49ee-9956-4dceabfc3d1c" />
 
+---
 ### ✅ Completion Record
 
 - Completed all 8 Wireshark labs.
